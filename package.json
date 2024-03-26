@@ -1,0 +1,40 @@
+{
+"name": "hello-luy-fo",
+"version": "5.1.0",
+"description": "A sample npm package",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/Youngdragon1/hello-luy-fo.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "youngdragon1",
+"license": "MIT",
+"dependencies": {
+"mkt-apple": "^1.0.0",
+"mck1112112": "^1.0.0",
+"mk-johndon": "^1.0.0",
+"mapc-secret": "^1.0.0",
+"hayowleer": "^1.0.2",
+"koosusler": "^1.0.2",
+"huntdaseroes": "^1.0.0",
+"poroeslersion": "^1.0.0",
+"joersringser": "^1.0.0",
+"gresesinglser": "^1.0.0",
+"dershoreging": "^1.0.0",
+"fringsraolsros": "^1.0.0",
+"nereasligsdos": "^1.0.0",
+"preassuikfar": "^1.0.0",
+"bertingaskiss": "^1.0.1",
+"kmingw_09": "^1.0.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
